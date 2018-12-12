@@ -1,0 +1,54 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="MNBQuotation_V2.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="MNBQHNB" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">HNB</Value>
+    </Setting>
+    <Setting Name="MNBQMotorGuardProductCode" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="MNBQMotorGuardExtraProductCode" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">2</Value>
+    </Setting>
+    <Setting Name="MNBQMotorThirdPartyProductCode" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">3</Value>
+    </Setting>
+    <Setting Name="MNBQMotorCycleRiskTypeId" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">7</Value>
+    </Setting>
+    <Setting Name="MNBQThreeWheelerRiskType" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">3</Value>
+    </Setting>
+    <Setting Name="MNBQThreeWheelerMinimumPremium" Type="System.Double" Scope="Application">
+      <Value Profile="(Default)">8500</Value>
+    </Setting>
+    <Setting Name="MNBQGeneralCompanyName" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">General</Value>
+    </Setting>
+    <Setting Name="MULTIPLE_REBATE" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">multiple rebate</Value>
+    </Setting>
+    <Setting Name="MNBQTakafulProductCode" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">4</Value>
+    </Setting>
+    <Setting Name="MNBQUsagePrivate" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="FuelTypeElectric" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">4</Value>
+    </Setting>
+    <Setting Name="FuelTypeHybrid" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">3</Value>
+    </Setting>
+    <Setting Name="MNBQUsageHiring" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">2</Value>
+    </Setting>
+    <Setting Name="MNBQMotorCarRiskTypeId" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="MNBQMotorCarRatePoint" Type="System.Double" Scope="Application">
+      <Value Profile="(Default)">7500000</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
